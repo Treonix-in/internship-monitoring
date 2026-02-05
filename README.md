@@ -28,7 +28,7 @@ SimPKL is a comprehensive internship monitoring system built with Laravel and Fi
 
 ### Frontend
 - **Vue.js** - Progressive JavaScript framework
-- **Repository**: [Internship Monitoring Vue](https://github.com/shfwnz/internship-monitoring-vue.git)
+- **Repository**: [Internship Monitoring Vue](https://github.com/Treonix-in/internship-monitoring.git)
 
 ## Database Schema
 
@@ -54,7 +54,7 @@ The system includes the following main entities:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/shfwnz/internship-monitoring-laravel.git backend
+   git clone https://github.com/Treonix-in/internship-monitoring.git backend
    cd backend
    ```
 
@@ -108,7 +108,7 @@ The system includes the following main entities:
 
 1. **Clone the Vue.js frontend repository**
    ```bash
-   git clone https://github.com/shfwnz/internship-monitoring-vue.git frontend
+   git clone https://github.com/Treonix-in/internship-monitoring.git frontend
    cd frontend
    ```
 
@@ -175,22 +175,5 @@ The system supports multiple user roles:
 └── README.md
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Related Repositories
-
-- **Frontend (Vue.js)**: [Internship Monitoring Vue](https://github.com/shfwnz/internship-monitoring-vue.git)
-
-## Support
-
-For support and questions, please open an issue in the repository or contact the development team.
-
----
 
 **SimPKL** - Simplifying internship monitoring for educational institutions.
